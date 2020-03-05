@@ -4,7 +4,7 @@ import org.springframework.stereotype.Component;
 
 @Component
 public class Water {
-    public void getWater(){
+    public void getWater() {
         System.out.println("Water is added.");
     }
 }
